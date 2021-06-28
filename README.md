@@ -1,5 +1,7 @@
 ### Hi there 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=back2225)](https://solved.ac/back2225/)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/JuyeolRyu/github-readme-stats)
+
 <!--
 **JuyeolRyu/JuyeolRyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
